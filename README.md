@@ -20,3 +20,7 @@ An interactive Power BI Dashboard developed to analyze sales performance, track 
 
 ## 📂 Project Files
 - `Sales_Performance_Dashboard.pbix` - The complete Power BI project file (Download and open with Power BI Desktop).
+
+## 📸 Dashboard Preview
+
+<img width="1169" height="658" alt="image" src="https://github.com/user-attachments/assets/87dc530c-498d-4700-9bbb-44b197ba0062" />
